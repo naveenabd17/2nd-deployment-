@@ -1,35 +1,4 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@naveenabd17 
-naveenabd17
-/
-1st-deployement
-Public
-1
-00
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-1st-deployement/requirements.txt
-@naveenabd17
-naveenabd17 Update requirements.txt
-Latest commit ea5424e 7 days ago
- History
- 1 contributor
-74 lines (74 sloc)  1.35 KB
-   
-﻿argcomplete==1.12.3
+argcomplete==1.12.3
 argon2-cffi==21.1.0
 attrs==21.2.0
 backcall==0.2.0
@@ -83,6 +52,8 @@ pyparsing==2.4.7
 pyrsistent==0.18.0
 python-dateutil==2.8.2
 pytz==2021.1
+pywin32==301
+pywinpty==1.1.4
 pyzmq==22.3.0
 qtconsole==5.1.1
 QtPy==1.11.2
@@ -103,15 +74,3 @@ Werkzeug==2.0.1
 widgetsnbextension==3.5.1
 wincertstore==0.2
 zipp==3.6.0
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
